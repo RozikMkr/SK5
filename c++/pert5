@@ -1,0 +1,10 @@
+#include<iostream>
+#include<fstream>
+#include"sk5.h"
+
+int main(int argc, char const *argv[])
+{
+    study_kasus in;
+    in.program();
+    return 0;
+}
